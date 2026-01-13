@@ -1,3 +1,4 @@
 # ngodingasik
 Aplikasi panic button,tombol darurat
-- Saweria: [Support via Saweria](https://saweria.co/)
+Please support us so we can grow
+- Saweria: [Support via Saweria](https://saweria.co/Ngodingasik)
